@@ -2,7 +2,9 @@
 layout: default
 title: "Tanukimchi: A Myth, A Snack, A Blog"
 date: 2025-07-10 22:00:00 +0900
+permalink: /2025/07/10/tanukimchi-history.html
 ---
+
 
 > *“Welcome to the mysterious world of Tanukimchi.”*
 
