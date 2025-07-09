@@ -1,0 +1,30 @@
+# GitHub Pages 블로그 설정 (_config.yml)
+title: Tanukimchi Blog
+description: "파이썬, 머신러닝, 일본 생활"
+baseurl: "/Tanukimchi_blog" # 저장소 이름 기준
+url: "https://jjm19.github.io" # GitHub Pages 주소
+
+# 사이트 소유자 정보
+author:
+  name: Tanukimchi
+  url: https://jjm19.github.io/Tanukimchi_blog
+
+# SEO, 피드, 사이트맵 등
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# 마크다운 렌더링 및 코드 하이라이터
+markdown: kramdown
+highlighter: rouge
+
+# 테마 설정
+theme: jekyll-theme-minimal
+lang: en
+timezone: Asia/Tokyo
+
+# 블로그 구조 옵션 (optional: minimal 테마에서는 생략 가능)
+# paginate: 10
+# paginate_path: "/page:num"
+# toc: true
