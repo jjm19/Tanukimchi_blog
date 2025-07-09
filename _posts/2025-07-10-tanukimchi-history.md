@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: default
 title: "Tanukimchi: A Myth, A Snack, A Blog"
 date: 2025-07-10 22:00:00 +0900
-tags: [intro, tanukimchi, blog-start]
 ---
 
 > *“Welcome to the mysterious world of Tanukimchi.”*
