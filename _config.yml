@@ -20,7 +20,7 @@ markdown: kramdown
 highlighter: rouge
 
 # 테마 설정
-theme: minima
+remote_theme: jekyll/minima
 lang: en
 timezone: Asia/Tokyo
 
